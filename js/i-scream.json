@@ -8,18 +8,30 @@
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
+        "image": "https://saksham212004.github.io/24W-JavaScript-03-Week11-main/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
+        "image": "https://saksham212004.github.io/24W-JavaScript-03-Week11-main/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+        "image": "https://saksham212004.github.io/24W-JavaScript-03-Week11-main/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "ice-cream-xtra1",
+        "calories": 700,
+        "type": "ice-cream",
+        "ingredients": ["chocolate  Syrup", "choco-Sprinkles", "Chocolate Base"],
+        "image": "https://saksham212004.github.io/24W-JavaScript-03-Week11-main/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "ice-cream-xtra2",
+        "calories": 500,
+        "type": "ice-cream",
+        "ingredients": ["gummy bears", "Maple", "Chocolate Base"],
+        "image": "https://saksham212004.github.io/24W-JavaScript-03-Week11-main/images/ice-cream-xtra2.svg"
     }]
 }
